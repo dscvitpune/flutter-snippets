@@ -1,0 +1,38 @@
+name: auth_dark
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^1.6.0
+  firebase_auth: ^3.1.1
+  google_sign_in: ^5.1.0
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.0
+  font_awesome_flutter: ^9.1.0
+  cloud_firestore: ^2.5.3
+  flutter_facebook_auth: ^3.5.2
+  url_launcher: ^6.0.12
+  uni_links: ^0.5.1
+  http: ^0.13.4
+  fluttertoast: ^8.0.8
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
