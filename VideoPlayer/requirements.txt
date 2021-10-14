@@ -1,0 +1,2 @@
+chewie: ^0.9.7
+Add this in pubspec.yaml file under dependencies

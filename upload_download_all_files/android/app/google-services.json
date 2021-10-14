@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490789467145",
+    "firebase_url": "https://dsc-vit-56541.firebaseio.com",
+    "project_id": "dsc-vit-56541",
+    "storage_bucket": "dsc-vit-56541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490789467145:android:c444d5cbd4115f5206f4d8",
+        "android_client_info": {
+          "package_name": "com.example.upload_download_all_files"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490789467145-29a48466vvurjhrlq6df9k029aq8o817.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs6o3qopP6B0gmSkkX4yYxidF_-9jM628"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490789467145-29a48466vvurjhrlq6df9k029aq8o817.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
