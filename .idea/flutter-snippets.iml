@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/text_translation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/text_translation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/text_translation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_auth_google_fb/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_auth_google_fb/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_auth_google_fb/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
